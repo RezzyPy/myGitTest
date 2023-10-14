@@ -3,4 +3,4 @@ if __name__ == "__main__":
     print("Interesting.", "Main")
     
     for i in range(1,11):
-        print(i**2)
+        print(i**2,"joke")
